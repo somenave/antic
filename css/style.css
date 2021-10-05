@@ -1229,7 +1229,7 @@ button.swiper-pagination-bullet {
   }
 
   .hero__container {
-    padding: 160px 25px 180px;
+    padding: 160px 25px 180px !important;
   }
 
   .hero__label {
@@ -1693,3 +1693,5 @@ button.swiper-pagination-bullet {
     background-color: rgba(83, 75, 66, 0.8);
   }
 }
+
+._webp .hero { background: url(../img/hero-bg.webp); }
